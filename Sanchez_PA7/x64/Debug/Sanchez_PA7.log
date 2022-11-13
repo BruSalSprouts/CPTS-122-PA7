@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\Stack.h(66,12): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\Stack.h(65): message : while compiling class template member function 'Stack<std::string>::~Stack(void)'
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\studentData.h(58): message : see reference to function template instantiation 'Stack<std::string>::~Stack(void)' being compiled
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\studentData.h(23): message : see reference to class template instantiation 'Stack<std::string>' being compiled
+  studentData.cpp
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\Stack.h(66,12): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\Stack.h(65): message : while compiling class template member function 'Stack<std::string>::~Stack(void)'
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\studentData.cpp(16): message : see reference to function template instantiation 'Stack<std::string>::~Stack(void)' being compiled
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\studentData.h(23): message : see reference to class template instantiation 'Stack<std::string>' being compiled
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\Stack.h(139,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\Stack.h(138): message : while compiling class template member function 'int Stack<std::string>::getSize(void)'
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\studentData.cpp(308): message : see reference to function template instantiation 'int Stack<std::string>::getSize(void)' being compiled
+  Generating Code...
+C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\Sanchez_PA7\recordNode.h(126): warning C4717: 'operator<<<studentData>': recursive on all control paths, function will cause runtime stack overflow
+  Sanchez_PA7.vcxproj -> C:\Users\bruno\OneDrive - Washington State University (email.wsu.edu)\Documents\CPT_S\CPTS122\Sanchez_PA7\x64\Debug\Sanchez_PA7.exe
